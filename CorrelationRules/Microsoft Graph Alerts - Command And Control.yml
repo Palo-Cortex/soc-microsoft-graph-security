@@ -30,14 +30,14 @@ dataset: alerts
 description: null
 drilldown_query_timeframe: ALERT
 execution_mode: REAL_TIME
-global_rule_id: Microsoft Graph Alerts - Command And Control (Copy)
+global_rule_id: Microsoft Graph Alerts - Command And Control
 investigation_query_link: ''
 is_enabled: true
 lookup_mapping: []
 mapping_strategy: CUSTOM
 mitre_defs:
   TA0011 - Command and Control: []
-name: Microsoft Graph Alerts - Command And Control (Copy)
+name: Microsoft Graph Alerts - Command And Control
 rule_id: 217
 search_window: null
 severity: User Defined

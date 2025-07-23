@@ -30,14 +30,14 @@ dataset: alerts
 description: null
 drilldown_query_timeframe: ALERT
 execution_mode: REAL_TIME
-global_rule_id: Microsoft Graph Alerts - Collection (Copy)
+global_rule_id: Microsoft Graph Alerts - Collection
 investigation_query_link: ''
 is_enabled: true
 lookup_mapping: []
 mapping_strategy: CUSTOM
 mitre_defs:
   TA0009 - Collection: []
-name: Microsoft Graph Alerts - Collection (Copy)
+name: Microsoft Graph Alerts - Collection
 rule_id: 215
 search_window: null
 severity: User Defined
