@@ -6,15 +6,9 @@
             "system": "yes"
         }
     ],
-    "post_config_docs": [
-            {
-                "name": "SOC Microsoft Graph Security - Manual Steps",
-                "url": "https://github.com/Palo-Cortex/soc-microsoft-graph-security/blob/main/POST_CONFIG_README.md"
-            }
-    ],
     "marketplace_packs": [
         {
-            "id": "Microsoft Graph Security",
+            "id": "MicrosoftGraphSecurity",
             "name": "Microsoft Graph Security",
             "version": "latest"
         }
