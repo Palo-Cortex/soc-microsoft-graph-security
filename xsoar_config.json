@@ -2,7 +2,7 @@
     "custom_packs": [
         {
             "id": "soc-microsoft-graph-security.zip",
-            "url": "https://github.com/Palo-Cortex/soc-microsoft-graph-security/archive/refs/tags/v1.0.0.zip",
+            "url": "https://github.com/Palo-Cortex/soc-microsoft-graph-security/archive/refs/tags/v1.0.1.zip",
             "system": "yes"
         }
     ],
