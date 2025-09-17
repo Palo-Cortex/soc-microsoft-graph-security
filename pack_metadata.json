@@ -2,28 +2,23 @@
     "name": "SOC Microsoft Graph Security Content Pack Enhancement for Cortex XSIAM",
     "id": "soc-microsoft-graph-security",
     "description": "This content replaces and enhances the out-of-the-box generic content pack rules.",
-    "support": "community",
-    "currentVersion": "1.0.0",
-    "author": "Scott Brumley",
-    "url": "https://live.paloaltonetworks.com/t5/cortex-xsoar-discussions/bd-p/Cortex_XSOAR_Discussions",
+    "support": "xsoar",
+    "currentVersion": "1.0.1",
+    "author": "Cortex XSOAR",
+    "url": "https://www.paloaltonetworks.com/cortex",
     "email": "",
     "categories": [
         "Analytics & SIEM"
     ],
     "tags": [
         "SOC",
-        "PoV",
-        "SOC_Framework"
+        "SOC_Framework",
+        "Utility",
+        "Palo Alto Networks Products"
     ],
     "useCases": [],
     "keywords": [],
     "marketplaces": [
         "marketplacev2"
-    ],
-    "devEmail": [
-        "sbrumley@paloaltonetworks.com"
-    ],
-    "githubUser": [
-        "annabarone"
     ]
 }
